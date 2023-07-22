@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.example.demo.dao.AllDao">
+
+    <select id="getRolenameByUserName" resultType="java.lang.String">
+--         获取username=tongtong的rolename
+        SELECT rolename FROM sys_role sr WHERE sr.id =
+        (SELECT roleid FROM sys_user_role sur, user u WHERE sur.userid = u.id AND u.username = #{username})
+    </select>
+
+
+    <select id="getGenderGroupByRolename" resultType="com.example.demo.dto.GenderGroupDto"> #用resultType是有现成的model
+        SELECT u.gender AS gender, COUNT(u.gender) AS count FROM user u
+            LEFT JOIN sys_user_role syr ON u.id = syr.userid
+            LEFT JOIN sys_role sr ON sr.id = syr.roleid WHERE sr.rolename = "CFO"
+        GROUP BY u.gender
+    </select>
+
+
+    <select id="getOrdersByUsername" resultMap="OrdersByNameResult2"> #用resultMap是在xml自己定义的resultMap
+        SELECT u.id as user_id,
+               u.username as user_username,
+               uo.id as order_id,
+               uo.count as order_count,
+               uo.create_year as order_createyear
+        FROM user_order uo, user u WHERE uo.userid = u.id AND u.username= #{username}
+    </select>
+
+    <resultMap id="OrdersByNameResult2" type="com.example.demo.dto.OrdersByUserName2Dto">
+        <id property="id" column="user_id" />
+        <result property="username" column="user_username"/>
+        <collection property="orderList" ofType="com.example.demo.dto.OrderDto">
+            <id property="id" column="order_id"/>
+            <result property="count" column="order_count"/>
+            <result property="createYear" column="order_createyear"/>
+        </collection>
+    </resultMap>
+
+<!--    <resultMap id="OrdersByNameResult" type="com.example.demo.dto.OrdersByUserNameDto"-->
+<!--               extends="com.example.demo.mbg.mapper.UserMapper.BaseResultMap">-->
+<!--        <collection property="orderList" resultMap="com.example.demo.mbg.mapper.UserOrderMapper.BaseResultMap"-->
+<!--                    columnPrefix="order_">-->
+<!--        </collection>-->
+<!--    </resultMap>-->
+
+    <select id="getUserAuthByName" resultMap="UserAuthByName">
+        SELECT u.*,
+               ua.id as auth_id,
+               ua.password as auth_password,
+               ua.email as auth_email
+        FROM user_auth ua, user u
+        WHERE ua.id = u.id AND u.username=#{username}
+    </select>
+
+    <resultMap id="UserAuthByName" type="com.example.demo.dto.UserAuthByNameDto"
+               extends="com.example.demo.mbg.mapper.UserMapper.BaseResultMap">
+        <association property="userAuth"
+                     resultMap="com.example.demo.mbg.mapper.UserAuthMapper.BaseResultMap"
+                     columnPrefix="auth_">
+        </association>
+    </resultMap>
+
+</mapper>
