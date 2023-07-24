@@ -6,6 +6,9 @@ import com.example.demo.dto.UserAuthByNameDto;
 import com.example.demo.mbg.model.SysRole;
 import com.example.demo.mbg.model.User;
 import com.example.demo.service.AllService;
+import io.swagger.annotations.Api;
+import io.swagger.annotations.ApiOperation;
+import io.swagger.annotations.Tag;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*;
 
@@ -13,6 +16,7 @@ import java.util.List;
 
 @RestController
 @RequestMapping
+@Api(tags = "AllControllerApi")
 public class AllContoller {
 
     @Autowired
@@ -23,6 +27,8 @@ public class AllContoller {
         allService.createSysRole(sysRole);
     }
 
+
+    @ApiOperation("Get all system role")
     @GetMapping("sysrole/getall")
     public List<SysRole> getAllSysRoles() {
         return allService.getAllSysRoles();
