@@ -1,0 +1,290 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="5c51cff0-a7d8-4ae5-b355-810dce412fdb" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../LearnSecurity2/StepOne/src/main/java/com/example/stepone/config/SecurityConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LearnMyBatis_finish/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../LearnMyBatis_finish/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LearnMyBatis_finish/.idea/libraries/Maven__ch_qos_logback_logback_classic_1_2_12.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LearnMyBatis_finish/.idea/libraries/Maven__ch_qos_logback_logback_core_1_2_12.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LearnMyBatis_finish/.idea/libraries/Maven__com_fasterxml_classmate_1_5_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LearnMyBatis_finish/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_annotations_2_13_5.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LearnMyBatis_finish/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_core_2_13_5.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LearnMyBatis_finish/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_databind_2_13_5.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LearnMyBatis_finish/.idea/libraries/Maven__com_fasterxml_jackson_datatype_jackson_datatype_jdk8_2_13_5.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LearnMyBatis_finish/.idea/libraries/Maven__com_fasterxml_jackson_datatype_jackson_datatype_jsr310_2_13_5.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LearnMyBatis_finish/.idea/libraries/Maven__com_fasterxml_jackson_module_jackson_module_parameter_names_2_13_5.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LearnMyBatis_finish/.idea/libraries/Maven__com_google_protobuf_protobuf_java_3_6_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LearnMyBatis_finish/.idea/libraries/Maven__com_jayway_jsonpath_json_path_2_7_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LearnMyBatis_finish/.idea/libraries/Maven__com_vaadin_external_google_android_json_0_0_20131108_vaadin1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LearnMyBatis_finish/.idea/libraries/Maven__com_zaxxer_HikariCP_4_0_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LearnMyBatis_finish/.idea/libraries/Maven__io_github_classgraph_classgraph_4_8_83.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LearnMyBatis_finish/.idea/libraries/Maven__io_lettuce_lettuce_core_6_1_10_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LearnMyBatis_finish/.idea/libraries/Maven__io_micrometer_micrometer_core_1_9_12.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LearnMyBatis_finish/.idea/libraries/Maven__io_netty_netty_buffer_4_1_94_Final.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LearnMyBatis_finish/.idea/libraries/Maven__io_netty_netty_codec_4_1_94_Final.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LearnMyBatis_finish/.idea/libraries/Maven__io_netty_netty_common_4_1_94_Final.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LearnMyBatis_finish/.idea/libraries/Maven__io_netty_netty_handler_4_1_94_Final.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LearnMyBatis_finish/.idea/libraries/Maven__io_netty_netty_resolver_4_1_94_Final.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LearnMyBatis_finish/.idea/libraries/Maven__io_netty_netty_transport_4_1_94_Final.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LearnMyBatis_finish/.idea/libraries/Maven__io_netty_netty_transport_native_unix_common_4_1_94_Final.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LearnMyBatis_finish/.idea/libraries/Maven__io_projectreactor_reactor_core_3_4_30.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LearnMyBatis_finish/.idea/libraries/Maven__io_springfox_springfox_bean_validators_3_0_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LearnMyBatis_finish/.idea/libraries/Maven__io_springfox_springfox_boot_starter_3_0_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LearnMyBatis_finish/.idea/libraries/Maven__io_springfox_springfox_core_3_0_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LearnMyBatis_finish/.idea/libraries/Maven__io_springfox_springfox_data_rest_3_0_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LearnMyBatis_finish/.idea/libraries/Maven__io_springfox_springfox_oas_3_0_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LearnMyBatis_finish/.idea/libraries/Maven__io_springfox_springfox_schema_3_0_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LearnMyBatis_finish/.idea/libraries/Maven__io_springfox_springfox_spi_3_0_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LearnMyBatis_finish/.idea/libraries/Maven__io_springfox_springfox_spring_web_3_0_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LearnMyBatis_finish/.idea/libraries/Maven__io_springfox_springfox_spring_webflux_3_0_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LearnMyBatis_finish/.idea/libraries/Maven__io_springfox_springfox_spring_webmvc_3_0_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LearnMyBatis_finish/.idea/libraries/Maven__io_springfox_springfox_swagger2_3_0_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LearnMyBatis_finish/.idea/libraries/Maven__io_springfox_springfox_swagger_common_3_0_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LearnMyBatis_finish/.idea/libraries/Maven__io_springfox_springfox_swagger_ui_3_0_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LearnMyBatis_finish/.idea/libraries/Maven__io_swagger_core_v3_swagger_annotations_2_1_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LearnMyBatis_finish/.idea/libraries/Maven__io_swagger_core_v3_swagger_models_2_1_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LearnMyBatis_finish/.idea/libraries/Maven__io_swagger_swagger_annotations_1_5_20.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LearnMyBatis_finish/.idea/libraries/Maven__io_swagger_swagger_models_1_5_20.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LearnMyBatis_finish/.idea/libraries/Maven__jakarta_activation_jakarta_activation_api_1_2_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LearnMyBatis_finish/.idea/libraries/Maven__jakarta_annotation_jakarta_annotation_api_1_3_5.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LearnMyBatis_finish/.idea/libraries/Maven__jakarta_xml_bind_jakarta_xml_bind_api_2_3_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LearnMyBatis_finish/.idea/libraries/Maven__mysql_mysql_connector_java_8_0_15.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LearnMyBatis_finish/.idea/libraries/Maven__net_bytebuddy_byte_buddy_1_12_23.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LearnMyBatis_finish/.idea/libraries/Maven__net_bytebuddy_byte_buddy_agent_1_12_23.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LearnMyBatis_finish/.idea/libraries/Maven__net_minidev_accessors_smart_2_4_11.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LearnMyBatis_finish/.idea/libraries/Maven__net_minidev_json_smart_2_4_11.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LearnMyBatis_finish/.idea/libraries/Maven__org_apache_commons_commons_pool2_2_11_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LearnMyBatis_finish/.idea/libraries/Maven__org_apache_logging_log4j_log4j_api_2_17_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LearnMyBatis_finish/.idea/libraries/Maven__org_apache_logging_log4j_log4j_to_slf4j_2_17_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LearnMyBatis_finish/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_core_9_0_76.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LearnMyBatis_finish/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_el_9_0_76.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LearnMyBatis_finish/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_websocket_9_0_76.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LearnMyBatis_finish/.idea/libraries/Maven__org_apiguardian_apiguardian_api_1_1_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LearnMyBatis_finish/.idea/libraries/Maven__org_aspectj_aspectjweaver_1_9_7.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LearnMyBatis_finish/.idea/libraries/Maven__org_assertj_assertj_core_3_22_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LearnMyBatis_finish/.idea/libraries/Maven__org_hamcrest_hamcrest_2_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LearnMyBatis_finish/.idea/libraries/Maven__org_hdrhistogram_HdrHistogram_2_1_12.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LearnMyBatis_finish/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_5_8_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LearnMyBatis_finish/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_api_5_8_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LearnMyBatis_finish/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_engine_5_8_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LearnMyBatis_finish/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_params_5_8_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LearnMyBatis_finish/.idea/libraries/Maven__org_junit_platform_junit_platform_commons_1_8_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LearnMyBatis_finish/.idea/libraries/Maven__org_junit_platform_junit_platform_engine_1_8_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LearnMyBatis_finish/.idea/libraries/Maven__org_latencyutils_LatencyUtils_2_0_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LearnMyBatis_finish/.idea/libraries/Maven__org_mapstruct_mapstruct_1_3_1_Final.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LearnMyBatis_finish/.idea/libraries/Maven__org_mockito_mockito_core_4_5_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LearnMyBatis_finish/.idea/libraries/Maven__org_mockito_mockito_junit_jupiter_4_5_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LearnMyBatis_finish/.idea/libraries/Maven__org_mybatis_generator_mybatis_generator_core_1_4_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LearnMyBatis_finish/.idea/libraries/Maven__org_mybatis_mybatis_3_5_5.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LearnMyBatis_finish/.idea/libraries/Maven__org_mybatis_mybatis_spring_2_0_5.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LearnMyBatis_finish/.idea/libraries/Maven__org_mybatis_spring_boot_mybatis_spring_boot_autoconfigure_2_1_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LearnMyBatis_finish/.idea/libraries/Maven__org_mybatis_spring_boot_mybatis_spring_boot_starter_2_1_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LearnMyBatis_finish/.idea/libraries/Maven__org_objenesis_objenesis_3_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LearnMyBatis_finish/.idea/libraries/Maven__org_opentest4j_opentest4j_1_2_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LearnMyBatis_finish/.idea/libraries/Maven__org_ow2_asm_asm_9_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LearnMyBatis_finish/.idea/libraries/Maven__org_reactivestreams_reactive_streams_1_0_4.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LearnMyBatis_finish/.idea/libraries/Maven__org_skyscreamer_jsonassert_1_5_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LearnMyBatis_finish/.idea/libraries/Maven__org_slf4j_jul_to_slf4j_1_7_36.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LearnMyBatis_finish/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_36.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LearnMyBatis_finish/.idea/libraries/Maven__org_springframework_boot_spring_boot_2_7_13.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LearnMyBatis_finish/.idea/libraries/Maven__org_springframework_boot_spring_boot_actuator_2_7_13.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LearnMyBatis_finish/.idea/libraries/Maven__org_springframework_boot_spring_boot_actuator_autoconfigure_2_7_13.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LearnMyBatis_finish/.idea/libraries/Maven__org_springframework_boot_spring_boot_autoconfigure_2_7_13.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LearnMyBatis_finish/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_2_7_13.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LearnMyBatis_finish/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_actuator_2_7_13.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LearnMyBatis_finish/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_aop_2_7_13.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LearnMyBatis_finish/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_data_redis_2_3_0_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LearnMyBatis_finish/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_jdbc_2_7_13.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LearnMyBatis_finish/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_json_2_7_13.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LearnMyBatis_finish/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_logging_2_7_13.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LearnMyBatis_finish/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_test_2_7_13.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LearnMyBatis_finish/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_tomcat_2_7_13.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LearnMyBatis_finish/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_web_2_7_13.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LearnMyBatis_finish/.idea/libraries/Maven__org_springframework_boot_spring_boot_test_2_7_13.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LearnMyBatis_finish/.idea/libraries/Maven__org_springframework_boot_spring_boot_test_autoconfigure_2_7_13.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LearnMyBatis_finish/.idea/libraries/Maven__org_springframework_data_spring_data_commons_2_7_13.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LearnMyBatis_finish/.idea/libraries/Maven__org_springframework_data_spring_data_keyvalue_2_7_13.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LearnMyBatis_finish/.idea/libraries/Maven__org_springframework_data_spring_data_redis_2_7_13.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LearnMyBatis_finish/.idea/libraries/Maven__org_springframework_plugin_spring_plugin_core_2_0_0_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LearnMyBatis_finish/.idea/libraries/Maven__org_springframework_plugin_spring_plugin_metadata_2_0_0_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LearnMyBatis_finish/.idea/libraries/Maven__org_springframework_spring_aop_5_3_28.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LearnMyBatis_finish/.idea/libraries/Maven__org_springframework_spring_beans_5_3_28.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LearnMyBatis_finish/.idea/libraries/Maven__org_springframework_spring_context_5_3_28.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LearnMyBatis_finish/.idea/libraries/Maven__org_springframework_spring_context_support_5_3_28.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LearnMyBatis_finish/.idea/libraries/Maven__org_springframework_spring_core_5_3_28.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LearnMyBatis_finish/.idea/libraries/Maven__org_springframework_spring_expression_5_3_28.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LearnMyBatis_finish/.idea/libraries/Maven__org_springframework_spring_jcl_5_3_28.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LearnMyBatis_finish/.idea/libraries/Maven__org_springframework_spring_jdbc_5_3_28.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LearnMyBatis_finish/.idea/libraries/Maven__org_springframework_spring_oxm_5_3_28.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LearnMyBatis_finish/.idea/libraries/Maven__org_springframework_spring_test_5_3_28.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LearnMyBatis_finish/.idea/libraries/Maven__org_springframework_spring_tx_5_3_28.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LearnMyBatis_finish/.idea/libraries/Maven__org_springframework_spring_web_5_3_28.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LearnMyBatis_finish/.idea/libraries/Maven__org_springframework_spring_webmvc_5_3_28.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LearnMyBatis_finish/.idea/libraries/Maven__org_xmlunit_xmlunit_core_2_9_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LearnMyBatis_finish/.idea/libraries/Maven__org_yaml_snakeyaml_1_30.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LearnMyBatis_finish/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../LearnMyBatis_finish/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LearnMyBatis_finish/demo/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../LearnMyBatis_finish/demo/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LearnRedis/demo/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LearnRedis/demo/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LearnRedis/demo/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LearnRedis/demo/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LearnRedis/demo/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LearnRedis/demo/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LearnRedis/demo/src/main/java/com/example/demo/DemoApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LearnRedis/demo/src/main/java/com/example/demo/congfig/RedisConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LearnRedis/demo/src/main/java/com/example/demo/controller/StudentController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LearnRedis/demo/src/main/java/com/example/demo/model/Student.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LearnRedis/demo/src/main/java/com/example/demo/service/RedisService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LearnRedis/demo/src/main/java/com/example/demo/service/StudentService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LearnRedis/demo/src/main/java/com/example/demo/service/impl/RedisServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LearnRedis/demo/src/main/java/com/example/demo/service/impl/StudentServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LearnRedis/demo/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LearnRedis/demo/src/test/java/com/example/demo/DemoApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LearnSwagger/demo/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LearnSwagger/demo/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LearnSwagger/demo/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LearnSwagger/demo/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LearnSwagger/demo/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LearnSwagger/demo/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LearnSwagger/demo/src/main/java/com/example/demo/DemoApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LearnSwagger/demo/src/main/java/com/example/demo/config/SwaggerConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LearnSwagger/demo/src/main/java/com/example/demo/controller/HelloWorldController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LearnSwagger/demo/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LearnSwagger/demo/src/test/java/com/example/demo/DemoApplicationTests.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2T3O9DfyINK7Ke1uXfgUt4ZnK6K" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showVisibilityIcons" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RequestMappingsPanelOrder0&quot;: &quot;0&quot;,
+    &quot;RequestMappingsPanelOrder1&quot;: &quot;1&quot;,
+    &quot;RequestMappingsPanelWidth0&quot;: &quot;75&quot;,
+    &quot;RequestMappingsPanelWidth1&quot;: &quot;75&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;F:/tongtong/java_practice/MallSelf/LearnJW+Security&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.keymap&quot;,
+    &quot;spring.configuration.checksum&quot;: &quot;fe01ce2a7fbac8fafaed7c982a04e229&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RunManager" selected="Spring Boot.DemoApplication">
+    <configuration name="Generator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.demo.mbg.Generator" />
+      <module name="demo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.demo.mbg.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DemoApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="demo" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.demo.DemoApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Generator" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5c51cff0-a7d8-4ae5-b355-810dce412fdb" name="Changes" comment="" />
+      <created>1690268143667</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1690268143667</updated>
+      <workItem from="1690268144654" duration="13458000" />
+      <workItem from="1690341211138" duration="11729000" />
+      <workItem from="1690369238128" duration="2173000" />
+      <workItem from="1690432852119" duration="9496000" />
+      <workItem from="1690513600267" duration="737000" />
+      <workItem from="1690577042437" duration="6385000" />
+      <workItem from="1690602273949" duration="1629000" />
+      <workItem from="1690669781456" duration="6475000" />
+      <workItem from="1690859293244" duration="8951000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/demo/src/main/java/com/example/demo/service/impl/UmsAdminServiceImpl.java</url>
+          <line>63</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/demo/src/main/java/com/example/demo/controller/UmsAdminController.java</url>
+          <line>45</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
